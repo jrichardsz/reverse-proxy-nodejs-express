@@ -1,0 +1,14 @@
+{
+  "name": "node-express-static-web-server",
+  "version": "1.0.0",
+  "description": "Node Express Static Web Server",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Kevin Chisholm",
+  "license": "MIT",
+  "dependencies": {
+    "express": "latest",
+    "http-proxy": "latest"
+  }
+}
